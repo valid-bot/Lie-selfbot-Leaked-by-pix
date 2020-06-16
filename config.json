@@ -1,0 +1,18 @@
+{
+    "token": "token",
+    "password": "here",
+    "prefix": "x",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": true,
+    "privnote_sniper": false,
+
+    "stream_url": "https://www.twitch.tv/syrusisthebestcoder",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
